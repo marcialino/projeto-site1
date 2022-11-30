@@ -14,8 +14,10 @@ main{
     box-shadow: 3px 3px 5px rgba(0,0,0,0.473);
 }
 h1{
-    font-size: large;
+    font-size: 24px;
+    color: rgb(10, 10, 83);
 }
 h2{
-    font-size: medium;
+    font-size: 20px;
+    color: rgb(10, 10, 74);
 }
